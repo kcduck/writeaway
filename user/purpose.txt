@@ -1,0 +1,5 @@
+this page:
+  - shows a user's works
+  - gives the user's profile
+  - allows a user to edit their profile
+  - shows a summary of their total reads and total likes

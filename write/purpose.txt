@@ -1,0 +1,3 @@
+this page:
+  - allows a user to write their work
+  - contains the entries for fandom, pairing, warnings, tags, and the body

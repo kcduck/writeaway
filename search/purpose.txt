@@ -1,0 +1,5 @@
+the purpose of this page is to
+  - show the works that meet the user's search
+  - show further filters
+  - allow a user to read a work
+  - show users that post most content and most liked content

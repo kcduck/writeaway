@@ -1,0 +1,6 @@
+the purpose of this page is to:
+  - display the book's text
+  - display the user and title of the book
+  - display comments and allow a user to leave a comment
+  - display the chapter's likes and allow a user to leave a like
+  

@@ -1,0 +1,2 @@
+the purpose of this page is to:
+  - display the works that a user has added to their bookmarks

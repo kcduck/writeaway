@@ -1,0 +1,4 @@
+this page is used to:
+  - display the user's favourited tags
+  - display the user's favourited users
+  - display news from writeaway

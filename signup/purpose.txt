@@ -1,0 +1,3 @@
+this page:
+  - allows a user to sign up
+  - takes a username, email address, date of birth (not saved; is user over 18 check)
